@@ -1,8 +1,8 @@
-#Witaj w tym tekście wyjaśnie ci pisanie w html zapraszam
+# Witaj w tym tekście wyjaśnie ci pisanie w html zapraszam
 Ważne rzeczy które napisalem są oznaczone # ale radze przeczytać całość zeby zrozumieć pisanie w języku html
 zały tem tekst jest wyjaśnieniem na czyniki pierwsze pliku pod nazwą div.html
 
-F&Q
+# F&Q
 
 jak zacząć pisać?
 pisanie w html nie jest ani trudne ani łatwe i właśnie w tym tekście pokaże ci wiedze którą się nauczyłem
@@ -32,7 +32,7 @@ dlaczego wpisujemy w sekcji head jedną dziwny kod?
 tem kod daje znać przeglądarce edge lub inych przeglądarkach pisanych na IE żeby poprawnie wyświetliło twoją strone 
 u klientów którzy kożystają z przeglądarki microsoftu
 
-#okej mam nadzieje że na większość pytań odpowiedziałem to teraz przejdzmy do części pisania
+# okej mam nadzieje że na większość pytań odpowiedziałem to teraz przejdzmy do części pisania
 
 <a href="link"></a>
 a to inaczej hiperłącze czyli klikasz na to i cie przenosi do linka który został wpisany 
@@ -78,7 +78,7 @@ klikamy select this style i po prawej wyskakuje nam panel
 w nim kopiujemy pierwszy kod i wklejamy go do sekcji head
 a pod spodem mamy 2 kod on nam będzie potrzebny do dodania go w stronie jak i 1
 
-#Teraz przechodzimy do sekcji jak to napisałem
+# Teraz przechodzimy do sekcji jak to napisałem
 
 na początku zrobiłem jednego diva w którym pomieszcze reszte divów i nazwałem go "container"
 jak już zrobimy danego diva to przechodzimy do sekcji style
@@ -144,7 +144,7 @@ temu wtedy zamiast float wpisujemy tam clear: float; żeby usunąćw od tego div
 
 po tym wszystkim zamykamy naszego wielkiego diva container i też html i body
 
-w tym tekście opowiedziałem ci na czyniki pierwsze każdy kod
+# w tym tekście opowiedziałem ci na czyniki pierwsze każdy kod
 mogą być błedy pisowni bo kończe to pisać o 4:30
 
 Więc życze ci miłem przygody z językiem html
