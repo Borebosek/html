@@ -8,6 +8,8 @@ jak zacząć pisać?
 pisanie w html nie jest ani trudne ani łatwe i właśnie w tym tekście pokaże ci wiedze którą się nauczyłem
 na początek polecam pobrac jakiś program do edycji kodu
 polecam visual studio code, note pad ++
+visual: https://code.visualstudio.com/
+note pad ++: https://notepad-plus-plus.org/
 
 jak nazwać naszą strone?
 w naszym kodzie w linijce 6 mamy napisany kod <title>tytuł</title.
