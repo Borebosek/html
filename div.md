@@ -1,4 +1,6 @@
 #Witaj w tym tekście wyjaśnie ci pisanie w html zapraszam
+Ważne rzeczy które napisalem są oznaczone # ale radze przeczytać całość zeby zrozumieć pisanie w języku html
+zały tem tekst jest wyjaśnieniem na czyniki pierwsze pliku pod nazwą div.html
 
 F&Q
 
@@ -24,6 +26,11 @@ tekst który tam przygotowaliśmy
 
 czy strona będzie odrazu dostępna dla każdego?
 nie będzie. Będziemy tylko wtedy mogli ją włączyć przez pliki lokalne ale w późniejszym czasie można kupić maszyne i domene.
+
+dlaczego wpisujemy w sekcji head jedną dziwny kod?
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+tem kod daje znać przeglądarce edge lub inych przeglądarkach pisanych na IE żeby poprawnie wyświetliło twoją strone 
+u klientów którzy kożystają z przeglądarki microsoftu
 
 #okej mam nadzieje że na większość pytań odpowiedziałem to teraz przejdzmy do części pisania
 
@@ -97,4 +104,48 @@ min-height - minimalna wysokość naszego diva
 padding - odstęp od naszego tekstu
 okej czyli wytumaczyłem wam co każdy z tego kodu robi więc przejdzmy do kolejnego diva
 
+następnym divem będzie nav
+nav to inaczej panel po lewej stronie
+tem div w samym html dodaje nam nowy kod
+który się nazywa <br>
+<br> to inaczej nowa linijka bo jak piszemy strony to piszmy na różne systemy operacyjne
+a naprzykład windows odczytuje inaczej konic linijki niż linux
+więdz temu zostało tak zrobione że br to koniec linijki
+ale dobra tak pozatym to nic nowego nie jest
+oczywiście robimy to samo w style co z divem logo ale tam mamy jedną nową rzecz
+float: (kierunek: left right); - tem kod oznacza przyklejenie się do danego kierunku który tam napisaliśmy
+
+kolejny div to jest div content
+najważnieszy div to w nim właśnie napiszemy główne rzeczy które chcemy żeby klient je zobaczył
+tem div to jest jakby środek strony
+poznajemy tam nowy kod pod nazwą
+<img - tem kod to jest wyświetlenie zdjęcia na naszej stronie
+czemu tam jest napisane src?
+src czyli jak się nazywa te zdjęcie
+jak jest w jakimś folderze to musimy w cudzysłowiu wpisać całą ścieżke do tego zdjęcia a jak jest w tym samym folderze co nasza praca to wpisujemy 
+tylko nazwe w moim przypadku to jest sadgunie.png
+czyli poprawnie by to wyglądało
+<img src="sadgunie.png">
+ale i też tam mamy hiper łącze
+hiper łącza czyli linki już potrafimy zrobić więc pomine tem szczegół
+dodajemy taki sam kod do style co do reszty ale tam usuwamy min-hight
+czemu? bo chyba nie chcemy żeby nasz tekst jak jest zaduży żeby przechodził przez inne divy albo ba żeby go nie było pokaanego na ekranie
+
+następnym divem jest ad
+tem div to kolejny panel ale po prawej stronie
+div piszemy jak div nav
+
+i ostani div czyli footer
+footer inaczej to stópka 
+stópki używamy na dole naszej strony
+tez piszemy tam wszystko tak samo oprócz jednej rzeczy
+nie piszemy wtedy w style float: left; bo jak byśmy tak napisali to byśmy mieli po lewej stronie stopke a my ją chcemy na dole
+temu wtedy zamiast float wpisujemy tam clear: float; żeby usunąćw od tego diva żeby nie pojawiał się po lewo
+
+po tym wszystkim zamykamy naszego wielkiego diva container i też html i body
+
+w tym tekście opowiedziałem ci na czyniki pierwsze każdy kod
+mogą być błedy pisowni bo kończe to pisać o 4:30
+
+Więc życze ci miłem przygody z językiem html
 
