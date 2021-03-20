@@ -125,7 +125,7 @@ src czyli jak się nazywa te zdjęcie
 jak jest w jakimś folderze to musimy w cudzysłowiu wpisać całą ścieżke do tego zdjęcia a jak jest w tym samym folderze co nasza praca to wpisujemy 
 tylko nazwe w moim przypadku to jest sadgunie.png
 czyli poprawnie by to wyglądało
-<img src="sadgunie.png">
+<img src="(plik zdjęcia z napisaną końcówką naprzykład .jpg, .png)">
 ale i też tam mamy hiper łącze
 hiper łącza czyli linki już potrafimy zrobić więc pomine tem szczegół
 dodajemy taki sam kod do style co do reszty ale tam usuwamy min-hight
