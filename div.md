@@ -42,6 +42,9 @@ Pewnie się spytasz po co te znaki < na początku i > na końcu i jeszcze po co 
 < to jest początek wierszu każdy wiersz tak zaczynamy w html a kończymy > żeby przeglądarka się domyśliła żeby skończyć w danym miejscu koniec linijki
 po co na końcu musi byc taki sam znak co na początku tylko z / 
 / oznacza zakończenie danej rzeczy naprzykład hiperłącza
+Możemy po naszym linku dodać takie rzeczy jak target czy title
+target: cel do którego mamy trafić nie chodzi o link jak wpiszemy w nim _blank to karta zostanie otwarta w nowym oknie
+title: Tytuł naszego hiper łącza jak na niego najedziemy to pokaże się nam to co napisaliśmy w title 
 
 <div></div>
 divy służą do budowania elementów strony www bez takich elementów byśmy osiągneli tylko tekst na naszej stronie
@@ -132,6 +135,9 @@ ale i też tam mamy hiper łącze
 hiper łącza czyli linki już potrafimy zrobić więc pomine tem szczegół
 dodajemy taki sam kod do style co do reszty ale tam usuwamy min-hight
 czemu? bo chyba nie chcemy żeby nasz tekst jak jest zaduży żeby przechodził przez inne divy albo ba żeby go nie było pokaanego na ekranie
+W środku tego diva możemy zaobserwować że jest tam jeszcze jeden div który jest nazwany zegar
+tem div służy do aktualizującego się zegarka jak możemy się domyślić
+więcej na tem temat w tekście js.md
 
 następnym divem jest ad
 tem div to kolejny panel ale po prawej stronie
