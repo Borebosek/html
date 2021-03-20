@@ -148,4 +148,3 @@ po tym wszystkim zamykamy naszego wielkiego diva container i też html i body
 mogą być błedy pisowni bo kończe to pisać o 4:30
 
 Więc życze ci miłem przygody z językiem html
-
